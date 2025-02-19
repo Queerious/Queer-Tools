@@ -24,7 +24,7 @@ function GM_addStyle(css) {
 
 var toolTitle = document.createElement( 'p' );
 toolTitle.id = 'title';
-toolTitle.innerHTML = "SCP Wiki License Generator";
+toolTitle.innerHTML = "SCP Wiki Licensing Generator";
 
 var licenseWrapper = document.createElement( 'div' );
 licenseWrapper.id = 'lbWrapper';
@@ -111,6 +111,7 @@ GM_addStyle(
     '    overflow-x: scroll;    ' +
     '    text-wrap-mode: nowrap;    ' +
     '    max-width: 300px;      ' +
+    '    user-select: all;    ' +
     '    text-align: left;    ' +
     ' } '
 );
