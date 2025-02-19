@@ -11,6 +11,8 @@
 // @downloadURL https://github.com/Queerious/Queer-Tools/raw/main/WikimediaLicenseBoxGenerator.user.js
 // ==/UserScript==
 
+//If you run into any problems, feel free to contact Queerious, either on Discord, or at https://www.wikidot.com/user:info/queerious
+
 //Code to add GM_addStyle Clone of Greasemonkey Behavior
 function GM_addStyle(css) {
     const style = document.getElementById("GM_addStyleBy8626") || (function() {
