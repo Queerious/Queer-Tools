@@ -7,6 +7,8 @@
 // @match        *://commons.wikimedia.org/wiki/*
 // @match        *://commons.m.wikimedia.org/wiki/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @updateURL   https://github.com/Queerious/Queer-Tools/raw/main/WikimediaLicenseBoxGenerator.user.js
+// @downloadURL https://github.com/Queerious/Queer-Tools/raw/main/WikimediaLicenseBoxGenerator.user.js
 // ==/UserScript==
 
 //Code to add GM_addStyle Clone of Greasemonkey Behavior
