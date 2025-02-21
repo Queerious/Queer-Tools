@@ -76,7 +76,7 @@ function licenseCheck (table) {
 
 if (authorElement){
     var authorText = authorElement.nextSibling.innerText;
-    licensebox.innerHTML = "> **Filename:** " + fileName + "<br>> **Author:** " + authorText + "<br>> **License:** " + imageLicense + "<br>> **Source Link:** " + sourceLink;
+    licensebox.innerHTML = "> **Filename:** " + fileName + "<br>> **Author:** " + authorText + "<br>> **License:** " + imageLicense + "<br>> **Source Link:** [[[" + sourceLink + "| WIKIMEDIA COMMONS]]]";
 } else {
     licensebox.innerHTML = "Oops, something broke! Try Again~";
 }
