@@ -6,7 +6,8 @@
 // @author       Queerious
 // @match       *://*.wikidot.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wikidot.com
-// @grant        none
+// @updateURL   https://github.com/Queerious/Queer-Tools/raw/main/NoBlinking-WikidotMessages.user.js
+// @downloadURL https://github.com/Queerious/Queer-Tools/raw/main/NoBlinking-WikidotMessages.user.js
 // ==/UserScript==
 
 function GM_addStyle(css) {
